@@ -212,6 +212,12 @@
   "enableSync": {
     "message": "Enable sync"
   },
+  "syncExclude": {
+    "message": "Firefox accounts sync exclude pattern:"
+  },
+  "syncExcludeDescription": {
+    "message": "Exclude containers based on their name from sync by specifying a case insensitive regular expression."
+  },
   "enableBookMarkMenusDescription": {
     "message": "This setting allows you to open a bookmark or folder of bookmarks in a Container."
   },
